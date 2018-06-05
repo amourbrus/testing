@@ -1,2 +1,2 @@
 # testing
-项目描述
+print("hello world")
